@@ -1,0 +1,241 @@
+ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Tax status,In stock?,Stock,Low stock amount,Backorders allowed?,Weight (kg),Allow customer reviews?,Sale price,Regular price,Categories,Tags,Parent,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global,Attribute 2 name,Attribute 2 value(s),Attribute 2 visible,Attribute 2 global,Position
+,variable,RV-RAVI-01,Ravi slim-fit jeans,1,1,visible,Our best-selling slim jeans.,"Our best-selling slim jeans. Enough stretch to sit cross-legged, enough structure to keep their shape all day. Five pockets, copper rivets and a proper metal button.
+
+Fabric: 11 oz cotton denim with 2% stretch.
+Fit: Slim through thigh and leg, mid rise, 32 in inseam.",taxable,,,3,0,0.6,1,,,Men,best-seller,,Size,"28, 30, 32, 34, 36, 38",1,1,Colour,"Raw indigo, Mid blue, Washed black",1,1,0
+,variation,RV-RAVI-01-RAW-28,"Ravi slim-fit jeans - Raw indigo, 28",1,0,visible,,,taxable,1,9,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,28,,1,Colour,Raw indigo,,1,0
+,variation,RV-RAVI-01-RAW-30,"Ravi slim-fit jeans - Raw indigo, 30",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,30,,1,Colour,Raw indigo,,1,1
+,variation,RV-RAVI-01-RAW-32,"Ravi slim-fit jeans - Raw indigo, 32",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,32,,1,Colour,Raw indigo,,1,2
+,variation,RV-RAVI-01-RAW-34,"Ravi slim-fit jeans - Raw indigo, 34",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,34,,1,Colour,Raw indigo,,1,3
+,variation,RV-RAVI-01-RAW-36,"Ravi slim-fit jeans - Raw indigo, 36",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,36,,1,Colour,Raw indigo,,1,4
+,variation,RV-RAVI-01-RAW-38,"Ravi slim-fit jeans - Raw indigo, 38",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,38,,1,Colour,Raw indigo,,1,5
+,variation,RV-RAVI-01-MID-28,"Ravi slim-fit jeans - Mid blue, 28",1,0,visible,,,taxable,1,9,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,28,,1,Colour,Mid blue,,1,6
+,variation,RV-RAVI-01-MID-30,"Ravi slim-fit jeans - Mid blue, 30",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,30,,1,Colour,Mid blue,,1,7
+,variation,RV-RAVI-01-MID-32,"Ravi slim-fit jeans - Mid blue, 32",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,32,,1,Colour,Mid blue,,1,8
+,variation,RV-RAVI-01-MID-34,"Ravi slim-fit jeans - Mid blue, 34",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,34,,1,Colour,Mid blue,,1,9
+,variation,RV-RAVI-01-MID-36,"Ravi slim-fit jeans - Mid blue, 36",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,36,,1,Colour,Mid blue,,1,10
+,variation,RV-RAVI-01-MID-38,"Ravi slim-fit jeans - Mid blue, 38",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,38,,1,Colour,Mid blue,,1,11
+,variation,RV-RAVI-01-BLACK-28,"Ravi slim-fit jeans - Washed black, 28",1,0,visible,,,taxable,1,11,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,28,,1,Colour,Washed black,,1,12
+,variation,RV-RAVI-01-BLACK-30,"Ravi slim-fit jeans - Washed black, 30",1,0,visible,,,taxable,1,3,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,30,,1,Colour,Washed black,,1,13
+,variation,RV-RAVI-01-BLACK-32,"Ravi slim-fit jeans - Washed black, 32",1,0,visible,,,taxable,1,3,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,32,,1,Colour,Washed black,,1,14
+,variation,RV-RAVI-01-BLACK-34,"Ravi slim-fit jeans - Washed black, 34",1,0,visible,,,taxable,1,3,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,34,,1,Colour,Washed black,,1,15
+,variation,RV-RAVI-01-BLACK-36,"Ravi slim-fit jeans - Washed black, 36",1,0,visible,,,taxable,1,3,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,36,,1,Colour,Washed black,,1,16
+,variation,RV-RAVI-01-BLACK-38,"Ravi slim-fit jeans - Washed black, 38",1,0,visible,,,taxable,1,3,3,0,0.6,0,3490,3990,,,RV-RAVI-01,Size,38,,1,Colour,Washed black,,1,17
+,variable,RV-KARAKORAM-02,Karakoram straight jeans,1,0,visible,"Heavy, rigid denim in a classic straight leg.","Heavy, rigid denim in a classic straight leg. Stiff for the first week, then it softens and fades to fit you.
+
+Fabric: 13 oz rigid cotton denim.
+Fit: Straight leg, regular rise, 32 in inseam.",taxable,,,3,0,0.6,1,,,Men,best-seller,,Size,"28, 30, 32, 34, 36, 38",1,1,Colour,"Raw indigo, Light wash, Grey wash",1,1,1
+,variation,RV-KARAKORAM-02-RAW-28,"Karakoram straight jeans - Raw indigo, 28",1,0,visible,,,taxable,1,7,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,28,,1,Colour,Raw indigo,,1,0
+,variation,RV-KARAKORAM-02-RAW-30,"Karakoram straight jeans - Raw indigo, 30",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,30,,1,Colour,Raw indigo,,1,1
+,variation,RV-KARAKORAM-02-RAW-32,"Karakoram straight jeans - Raw indigo, 32",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,32,,1,Colour,Raw indigo,,1,2
+,variation,RV-KARAKORAM-02-RAW-34,"Karakoram straight jeans - Raw indigo, 34",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,34,,1,Colour,Raw indigo,,1,3
+,variation,RV-KARAKORAM-02-RAW-36,"Karakoram straight jeans - Raw indigo, 36",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,36,,1,Colour,Raw indigo,,1,4
+,variation,RV-KARAKORAM-02-RAW-38,"Karakoram straight jeans - Raw indigo, 38",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,38,,1,Colour,Raw indigo,,1,5
+,variation,RV-KARAKORAM-02-LIGHT-28,"Karakoram straight jeans - Light wash, 28",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,28,,1,Colour,Light wash,,1,6
+,variation,RV-KARAKORAM-02-LIGHT-30,"Karakoram straight jeans - Light wash, 30",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,30,,1,Colour,Light wash,,1,7
+,variation,RV-KARAKORAM-02-LIGHT-32,"Karakoram straight jeans - Light wash, 32",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,32,,1,Colour,Light wash,,1,8
+,variation,RV-KARAKORAM-02-LIGHT-34,"Karakoram straight jeans - Light wash, 34",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,34,,1,Colour,Light wash,,1,9
+,variation,RV-KARAKORAM-02-LIGHT-36,"Karakoram straight jeans - Light wash, 36",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,36,,1,Colour,Light wash,,1,10
+,variation,RV-KARAKORAM-02-LIGHT-38,"Karakoram straight jeans - Light wash, 38",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,38,,1,Colour,Light wash,,1,11
+,variation,RV-KARAKORAM-02-GREY-28,"Karakoram straight jeans - Grey wash, 28",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,28,,1,Colour,Grey wash,,1,12
+,variation,RV-KARAKORAM-02-GREY-30,"Karakoram straight jeans - Grey wash, 30",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,30,,1,Colour,Grey wash,,1,13
+,variation,RV-KARAKORAM-02-GREY-32,"Karakoram straight jeans - Grey wash, 32",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,32,,1,Colour,Grey wash,,1,14
+,variation,RV-KARAKORAM-02-GREY-34,"Karakoram straight jeans - Grey wash, 34",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,34,,1,Colour,Grey wash,,1,15
+,variation,RV-KARAKORAM-02-GREY-36,"Karakoram straight jeans - Grey wash, 36",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,36,,1,Colour,Grey wash,,1,16
+,variation,RV-KARAKORAM-02-GREY-38,"Karakoram straight jeans - Grey wash, 38",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3790,,,RV-KARAKORAM-02,Size,38,,1,Colour,Grey wash,,1,17
+,variable,RV-INDUS-03,Indus relaxed jeans,1,1,visible,Roomy through the seat and thigh with a wide leg.,"Roomy through the seat and thigh with a wide leg. Made for long days, long drives and people who hate tight jeans.
+
+Fabric: 12 oz cotton denim.
+Fit: Relaxed thigh, wide straight leg, 32 in inseam.",taxable,,,3,0,0.6,1,,,Men,new,,Size,"28, 30, 32, 34, 36, 38",1,1,Colour,"Mid blue, Light wash",1,1,2
+,variation,RV-INDUS-03-MID-28,"Indus relaxed jeans - Mid blue, 28",1,0,visible,,,taxable,1,5,3,0,0.6,0,,3990,,,RV-INDUS-03,Size,28,,1,Colour,Mid blue,,1,0
+,variation,RV-INDUS-03-MID-30,"Indus relaxed jeans - Mid blue, 30",1,0,visible,,,taxable,1,6,3,0,0.6,0,,3990,,,RV-INDUS-03,Size,30,,1,Colour,Mid blue,,1,1
+,variation,RV-INDUS-03-MID-32,"Indus relaxed jeans - Mid blue, 32",1,0,visible,,,taxable,1,6,3,0,0.6,0,,3990,,,RV-INDUS-03,Size,32,,1,Colour,Mid blue,,1,2
+,variation,RV-INDUS-03-MID-34,"Indus relaxed jeans - Mid blue, 34",1,0,visible,,,taxable,1,6,3,0,0.6,0,,3990,,,RV-INDUS-03,Size,34,,1,Colour,Mid blue,,1,3
+,variation,RV-INDUS-03-MID-36,"Indus relaxed jeans - Mid blue, 36",1,0,visible,,,taxable,1,6,3,0,0.6,0,,3990,,,RV-INDUS-03,Size,36,,1,Colour,Mid blue,,1,4
+,variation,RV-INDUS-03-MID-38,"Indus relaxed jeans - Mid blue, 38",1,0,visible,,,taxable,1,6,3,0,0.6,0,,3990,,,RV-INDUS-03,Size,38,,1,Colour,Mid blue,,1,5
+,variation,RV-INDUS-03-LIGHT-28,"Indus relaxed jeans - Light wash, 28",1,0,visible,,,taxable,1,7,3,0,0.6,0,,3990,,,RV-INDUS-03,Size,28,,1,Colour,Light wash,,1,6
+,variation,RV-INDUS-03-LIGHT-30,"Indus relaxed jeans - Light wash, 30",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3990,,,RV-INDUS-03,Size,30,,1,Colour,Light wash,,1,7
+,variation,RV-INDUS-03-LIGHT-32,"Indus relaxed jeans - Light wash, 32",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3990,,,RV-INDUS-03,Size,32,,1,Colour,Light wash,,1,8
+,variation,RV-INDUS-03-LIGHT-34,"Indus relaxed jeans - Light wash, 34",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3990,,,RV-INDUS-03,Size,34,,1,Colour,Light wash,,1,9
+,variation,RV-INDUS-03-LIGHT-36,"Indus relaxed jeans - Light wash, 36",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3990,,,RV-INDUS-03,Size,36,,1,Colour,Light wash,,1,10
+,variation,RV-INDUS-03-LIGHT-38,"Indus relaxed jeans - Light wash, 38",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3990,,,RV-INDUS-03,Size,38,,1,Colour,Light wash,,1,11
+,variable,RV-MEHR-04,Mehr high-rise skinny jeans,1,0,visible,"A high waist that stays put and stretch that recovers, so they do not bag out by evening.","A high waist that stays put and stretch that recovers, so they do not bag out by evening. Works with kurtas, tops and everything in between.
+
+Fabric: 10 oz power-stretch denim.
+Fit: High rise, skinny leg, 30 in inseam.",taxable,,,3,0,0.6,1,,,Women,best-seller,,Size,"24, 26, 28, 30, 32, 34",1,1,Colour,"Washed black, Mid blue, Light wash",1,1,3
+,variation,RV-MEHR-04-BLACK-24,"Mehr high-rise skinny jeans - Washed black, 24",1,0,visible,,,taxable,1,5,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,24,,1,Colour,Washed black,,1,0
+,variation,RV-MEHR-04-BLACK-26,"Mehr high-rise skinny jeans - Washed black, 26",1,0,visible,,,taxable,1,5,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,26,,1,Colour,Washed black,,1,1
+,variation,RV-MEHR-04-BLACK-28,"Mehr high-rise skinny jeans - Washed black, 28",1,0,visible,,,taxable,1,5,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,28,,1,Colour,Washed black,,1,2
+,variation,RV-MEHR-04-BLACK-30,"Mehr high-rise skinny jeans - Washed black, 30",1,0,visible,,,taxable,1,6,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,30,,1,Colour,Washed black,,1,3
+,variation,RV-MEHR-04-BLACK-32,"Mehr high-rise skinny jeans - Washed black, 32",1,0,visible,,,taxable,1,6,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,32,,1,Colour,Washed black,,1,4
+,variation,RV-MEHR-04-BLACK-34,"Mehr high-rise skinny jeans - Washed black, 34",1,0,visible,,,taxable,1,6,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,34,,1,Colour,Washed black,,1,5
+,variation,RV-MEHR-04-MID-24,"Mehr high-rise skinny jeans - Mid blue, 24",1,0,visible,,,taxable,1,3,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,24,,1,Colour,Mid blue,,1,6
+,variation,RV-MEHR-04-MID-26,"Mehr high-rise skinny jeans - Mid blue, 26",1,0,visible,,,taxable,1,3,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,26,,1,Colour,Mid blue,,1,7
+,variation,RV-MEHR-04-MID-28,"Mehr high-rise skinny jeans - Mid blue, 28",1,0,visible,,,taxable,1,3,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,28,,1,Colour,Mid blue,,1,8
+,variation,RV-MEHR-04-MID-30,"Mehr high-rise skinny jeans - Mid blue, 30",1,0,visible,,,taxable,1,4,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,30,,1,Colour,Mid blue,,1,9
+,variation,RV-MEHR-04-MID-32,"Mehr high-rise skinny jeans - Mid blue, 32",1,0,visible,,,taxable,1,4,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,32,,1,Colour,Mid blue,,1,10
+,variation,RV-MEHR-04-MID-34,"Mehr high-rise skinny jeans - Mid blue, 34",1,0,visible,,,taxable,1,4,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,34,,1,Colour,Mid blue,,1,11
+,variation,RV-MEHR-04-LIGHT-24,"Mehr high-rise skinny jeans - Light wash, 24",1,0,visible,,,taxable,1,5,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,24,,1,Colour,Light wash,,1,12
+,variation,RV-MEHR-04-LIGHT-26,"Mehr high-rise skinny jeans - Light wash, 26",1,0,visible,,,taxable,1,5,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,26,,1,Colour,Light wash,,1,13
+,variation,RV-MEHR-04-LIGHT-28,"Mehr high-rise skinny jeans - Light wash, 28",1,0,visible,,,taxable,1,5,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,28,,1,Colour,Light wash,,1,14
+,variation,RV-MEHR-04-LIGHT-30,"Mehr high-rise skinny jeans - Light wash, 30",1,0,visible,,,taxable,1,6,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,30,,1,Colour,Light wash,,1,15
+,variation,RV-MEHR-04-LIGHT-32,"Mehr high-rise skinny jeans - Light wash, 32",1,0,visible,,,taxable,1,6,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,32,,1,Colour,Light wash,,1,16
+,variation,RV-MEHR-04-LIGHT-34,"Mehr high-rise skinny jeans - Light wash, 34",1,0,visible,,,taxable,1,6,3,0,0.6,0,,3290,,,RV-MEHR-04,Size,34,,1,Colour,Light wash,,1,17
+,variable,RV-SABA-05,Saba wide-leg jeans,1,1,visible,"A flowing wide leg in soft, washed denim.","A flowing wide leg in soft, washed denim. Comfortable in the heat and easy to dress up or down.
+
+Fabric: 11 oz cotton denim.
+Fit: High rise, wide leg, 30 in inseam.",taxable,,,3,0,0.6,1,,,Women,new,,Size,"24, 26, 28, 30, 32, 34",1,1,Colour,"Light wash, Raw indigo, Ecru",1,1,4
+,variation,RV-SABA-05-LIGHT-24,"Saba wide-leg jeans - Light wash, 24",1,0,visible,,,taxable,1,3,3,0,0.6,0,,3790,,,RV-SABA-05,Size,24,,1,Colour,Light wash,,1,0
+,variation,RV-SABA-05-LIGHT-26,"Saba wide-leg jeans - Light wash, 26",1,0,visible,,,taxable,1,3,3,0,0.6,0,,3790,,,RV-SABA-05,Size,26,,1,Colour,Light wash,,1,1
+,variation,RV-SABA-05-LIGHT-28,"Saba wide-leg jeans - Light wash, 28",1,0,visible,,,taxable,1,3,3,0,0.6,0,,3790,,,RV-SABA-05,Size,28,,1,Colour,Light wash,,1,2
+,variation,RV-SABA-05-LIGHT-30,"Saba wide-leg jeans - Light wash, 30",1,0,visible,,,taxable,1,4,3,0,0.6,0,,3790,,,RV-SABA-05,Size,30,,1,Colour,Light wash,,1,3
+,variation,RV-SABA-05-LIGHT-32,"Saba wide-leg jeans - Light wash, 32",1,0,visible,,,taxable,1,4,3,0,0.6,0,,3790,,,RV-SABA-05,Size,32,,1,Colour,Light wash,,1,4
+,variation,RV-SABA-05-LIGHT-34,"Saba wide-leg jeans - Light wash, 34",1,0,visible,,,taxable,1,4,3,0,0.6,0,,3790,,,RV-SABA-05,Size,34,,1,Colour,Light wash,,1,5
+,variation,RV-SABA-05-RAW-24,"Saba wide-leg jeans - Raw indigo, 24",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3790,,,RV-SABA-05,Size,24,,1,Colour,Raw indigo,,1,6
+,variation,RV-SABA-05-RAW-26,"Saba wide-leg jeans - Raw indigo, 26",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3790,,,RV-SABA-05,Size,26,,1,Colour,Raw indigo,,1,7
+,variation,RV-SABA-05-RAW-28,"Saba wide-leg jeans - Raw indigo, 28",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3790,,,RV-SABA-05,Size,28,,1,Colour,Raw indigo,,1,8
+,variation,RV-SABA-05-RAW-30,"Saba wide-leg jeans - Raw indigo, 30",1,0,visible,,,taxable,1,11,3,0,0.6,0,,3790,,,RV-SABA-05,Size,30,,1,Colour,Raw indigo,,1,9
+,variation,RV-SABA-05-RAW-32,"Saba wide-leg jeans - Raw indigo, 32",1,0,visible,,,taxable,1,11,3,0,0.6,0,,3790,,,RV-SABA-05,Size,32,,1,Colour,Raw indigo,,1,10
+,variation,RV-SABA-05-RAW-34,"Saba wide-leg jeans - Raw indigo, 34",1,0,visible,,,taxable,1,11,3,0,0.6,0,,3790,,,RV-SABA-05,Size,34,,1,Colour,Raw indigo,,1,11
+,variation,RV-SABA-05-ECRU-24,"Saba wide-leg jeans - Ecru, 24",1,0,visible,,,taxable,1,11,3,0,0.6,0,,3790,,,RV-SABA-05,Size,24,,1,Colour,Ecru,,1,12
+,variation,RV-SABA-05-ECRU-26,"Saba wide-leg jeans - Ecru, 26",1,0,visible,,,taxable,1,11,3,0,0.6,0,,3790,,,RV-SABA-05,Size,26,,1,Colour,Ecru,,1,13
+,variation,RV-SABA-05-ECRU-28,"Saba wide-leg jeans - Ecru, 28",1,0,visible,,,taxable,1,11,3,0,0.6,0,,3790,,,RV-SABA-05,Size,28,,1,Colour,Ecru,,1,14
+,variation,RV-SABA-05-ECRU-30,"Saba wide-leg jeans - Ecru, 30",1,0,visible,,,taxable,1,3,3,0,0.6,0,,3790,,,RV-SABA-05,Size,30,,1,Colour,Ecru,,1,15
+,variation,RV-SABA-05-ECRU-32,"Saba wide-leg jeans - Ecru, 32",1,0,visible,,,taxable,1,3,3,0,0.6,0,,3790,,,RV-SABA-05,Size,32,,1,Colour,Ecru,,1,16
+,variation,RV-SABA-05-ECRU-34,"Saba wide-leg jeans - Ecru, 34",1,0,visible,,,taxable,1,3,3,0,0.6,0,,3790,,,RV-SABA-05,Size,34,,1,Colour,Ecru,,1,17
+,variable,RV-NOOR-06,Noor mom jeans,1,0,visible,"A relaxed, high-waisted mom fit in a lived-in mid-blue wash.","A relaxed, high-waisted mom fit in a lived-in mid-blue wash. Roomy at the hip and neat at the ankle.
+
+Fabric: 12 oz cotton denim.
+Fit: High rise, relaxed hip, tapered straight leg, 30 in inseam.",taxable,,,3,0,0.6,1,,,Women,,,Size,"24, 26, 28, 30, 32, 34",1,1,Colour,"Mid blue, Light wash",1,1,5
+,variation,RV-NOOR-06-MID-24,"Noor mom jeans - Mid blue, 24",1,0,visible,,,taxable,1,8,3,0,0.6,0,3490,3890,,,RV-NOOR-06,Size,24,,1,Colour,Mid blue,,1,0
+,variation,RV-NOOR-06-MID-26,"Noor mom jeans - Mid blue, 26",1,0,visible,,,taxable,1,8,3,0,0.6,0,3490,3890,,,RV-NOOR-06,Size,26,,1,Colour,Mid blue,,1,1
+,variation,RV-NOOR-06-MID-28,"Noor mom jeans - Mid blue, 28",1,0,visible,,,taxable,1,8,3,0,0.6,0,3490,3890,,,RV-NOOR-06,Size,28,,1,Colour,Mid blue,,1,2
+,variation,RV-NOOR-06-MID-30,"Noor mom jeans - Mid blue, 30",1,0,visible,,,taxable,1,9,3,0,0.6,0,3490,3890,,,RV-NOOR-06,Size,30,,1,Colour,Mid blue,,1,3
+,variation,RV-NOOR-06-MID-32,"Noor mom jeans - Mid blue, 32",1,0,visible,,,taxable,1,9,3,0,0.6,0,3490,3890,,,RV-NOOR-06,Size,32,,1,Colour,Mid blue,,1,4
+,variation,RV-NOOR-06-MID-34,"Noor mom jeans - Mid blue, 34",1,0,visible,,,taxable,1,9,3,0,0.6,0,3490,3890,,,RV-NOOR-06,Size,34,,1,Colour,Mid blue,,1,5
+,variation,RV-NOOR-06-LIGHT-24,"Noor mom jeans - Light wash, 24",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3890,,,RV-NOOR-06,Size,24,,1,Colour,Light wash,,1,6
+,variation,RV-NOOR-06-LIGHT-26,"Noor mom jeans - Light wash, 26",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3890,,,RV-NOOR-06,Size,26,,1,Colour,Light wash,,1,7
+,variation,RV-NOOR-06-LIGHT-28,"Noor mom jeans - Light wash, 28",1,0,visible,,,taxable,1,10,3,0,0.6,0,3490,3890,,,RV-NOOR-06,Size,28,,1,Colour,Light wash,,1,8
+,variation,RV-NOOR-06-LIGHT-30,"Noor mom jeans - Light wash, 30",1,0,visible,,,taxable,1,11,3,0,0.6,0,3490,3890,,,RV-NOOR-06,Size,30,,1,Colour,Light wash,,1,9
+,variation,RV-NOOR-06-LIGHT-32,"Noor mom jeans - Light wash, 32",1,0,visible,,,taxable,1,11,3,0,0.6,0,3490,3890,,,RV-NOOR-06,Size,32,,1,Colour,Light wash,,1,10
+,variation,RV-NOOR-06-LIGHT-34,"Noor mom jeans - Light wash, 34",1,0,visible,,,taxable,1,11,3,0,0.6,0,3490,3890,,,RV-NOOR-06,Size,34,,1,Colour,Light wash,,1,11
+,variable,RV-TRAIL-07,Trail cargo pants,1,0,visible,Tough ripstop cargos with two flap pockets that actually hold a phone.,"Tough ripstop cargos with two flap pockets that actually hold a phone. Drawcord hems let you wear them long or cinched.
+
+Fabric: Cotton ripstop.
+Fit: Straight leg, six pockets, drawcord hem.",taxable,,,3,0,0.6,1,,,Cargo pants,best-seller,,Size,"28, 30, 32, 34, 36, 38",1,1,Colour,"Olive, Khaki, Washed black",1,1,6
+,variation,RV-TRAIL-07-OLIVE-28,"Trail cargo pants - Olive, 28",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,28,,1,Colour,Olive,,1,0
+,variation,RV-TRAIL-07-OLIVE-30,"Trail cargo pants - Olive, 30",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,30,,1,Colour,Olive,,1,1
+,variation,RV-TRAIL-07-OLIVE-32,"Trail cargo pants - Olive, 32",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,32,,1,Colour,Olive,,1,2
+,variation,RV-TRAIL-07-OLIVE-34,"Trail cargo pants - Olive, 34",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,34,,1,Colour,Olive,,1,3
+,variation,RV-TRAIL-07-OLIVE-36,"Trail cargo pants - Olive, 36",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,36,,1,Colour,Olive,,1,4
+,variation,RV-TRAIL-07-OLIVE-38,"Trail cargo pants - Olive, 38",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,38,,1,Colour,Olive,,1,5
+,variation,RV-TRAIL-07-KHAKI-28,"Trail cargo pants - Khaki, 28",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,28,,1,Colour,Khaki,,1,6
+,variation,RV-TRAIL-07-KHAKI-30,"Trail cargo pants - Khaki, 30",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,30,,1,Colour,Khaki,,1,7
+,variation,RV-TRAIL-07-KHAKI-32,"Trail cargo pants - Khaki, 32",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,32,,1,Colour,Khaki,,1,8
+,variation,RV-TRAIL-07-KHAKI-34,"Trail cargo pants - Khaki, 34",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,34,,1,Colour,Khaki,,1,9
+,variation,RV-TRAIL-07-KHAKI-36,"Trail cargo pants - Khaki, 36",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,36,,1,Colour,Khaki,,1,10
+,variation,RV-TRAIL-07-KHAKI-38,"Trail cargo pants - Khaki, 38",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,38,,1,Colour,Khaki,,1,11
+,variation,RV-TRAIL-07-BLACK-28,"Trail cargo pants - Washed black, 28",1,0,visible,,,taxable,1,8,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,28,,1,Colour,Washed black,,1,12
+,variation,RV-TRAIL-07-BLACK-30,"Trail cargo pants - Washed black, 30",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,30,,1,Colour,Washed black,,1,13
+,variation,RV-TRAIL-07-BLACK-32,"Trail cargo pants - Washed black, 32",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,32,,1,Colour,Washed black,,1,14
+,variation,RV-TRAIL-07-BLACK-34,"Trail cargo pants - Washed black, 34",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,34,,1,Colour,Washed black,,1,15
+,variation,RV-TRAIL-07-BLACK-36,"Trail cargo pants - Washed black, 36",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,36,,1,Colour,Washed black,,1,16
+,variation,RV-TRAIL-07-BLACK-38,"Trail cargo pants - Washed black, 38",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3290,,,RV-TRAIL-07,Size,38,,1,Colour,Washed black,,1,17
+,variable,RV-DENIM-08,Denim cargo jeans,1,1,visible,The comfort of jeans with the storage of cargos.,"The comfort of jeans with the storage of cargos. Mid-weight denim with two stitched side pockets.
+
+Fabric: 12 oz cotton denim.
+Fit: Straight leg, regular rise, cargo pockets.",taxable,,,3,0,0.6,1,,,Cargo pants,new,,Size,"28, 30, 32, 34, 36, 38",1,1,Colour,"Mid blue, Washed black",1,1,7
+,variation,RV-DENIM-08-MID-28,"Denim cargo jeans - Mid blue, 28",1,0,visible,,,taxable,1,4,3,0,0.6,0,,3990,,,RV-DENIM-08,Size,28,,1,Colour,Mid blue,,1,0
+,variation,RV-DENIM-08-MID-30,"Denim cargo jeans - Mid blue, 30",1,0,visible,,,taxable,1,5,3,0,0.6,0,,3990,,,RV-DENIM-08,Size,30,,1,Colour,Mid blue,,1,1
+,variation,RV-DENIM-08-MID-32,"Denim cargo jeans - Mid blue, 32",1,0,visible,,,taxable,1,5,3,0,0.6,0,,3990,,,RV-DENIM-08,Size,32,,1,Colour,Mid blue,,1,2
+,variation,RV-DENIM-08-MID-34,"Denim cargo jeans - Mid blue, 34",1,0,visible,,,taxable,1,5,3,0,0.6,0,,3990,,,RV-DENIM-08,Size,34,,1,Colour,Mid blue,,1,3
+,variation,RV-DENIM-08-MID-36,"Denim cargo jeans - Mid blue, 36",1,0,visible,,,taxable,1,5,3,0,0.6,0,,3990,,,RV-DENIM-08,Size,36,,1,Colour,Mid blue,,1,4
+,variation,RV-DENIM-08-MID-38,"Denim cargo jeans - Mid blue, 38",1,0,visible,,,taxable,1,5,3,0,0.6,0,,3990,,,RV-DENIM-08,Size,38,,1,Colour,Mid blue,,1,5
+,variation,RV-DENIM-08-BLACK-28,"Denim cargo jeans - Washed black, 28",1,0,visible,,,taxable,1,6,3,0,0.6,0,,3990,,,RV-DENIM-08,Size,28,,1,Colour,Washed black,,1,6
+,variation,RV-DENIM-08-BLACK-30,"Denim cargo jeans - Washed black, 30",1,0,visible,,,taxable,1,7,3,0,0.6,0,,3990,,,RV-DENIM-08,Size,30,,1,Colour,Washed black,,1,7
+,variation,RV-DENIM-08-BLACK-32,"Denim cargo jeans - Washed black, 32",1,0,visible,,,taxable,1,7,3,0,0.6,0,,3990,,,RV-DENIM-08,Size,32,,1,Colour,Washed black,,1,8
+,variation,RV-DENIM-08-BLACK-34,"Denim cargo jeans - Washed black, 34",1,0,visible,,,taxable,1,7,3,0,0.6,0,,3990,,,RV-DENIM-08,Size,34,,1,Colour,Washed black,,1,9
+,variation,RV-DENIM-08-BLACK-36,"Denim cargo jeans - Washed black, 36",1,0,visible,,,taxable,1,7,3,0,0.6,0,,3990,,,RV-DENIM-08,Size,36,,1,Colour,Washed black,,1,10
+,variation,RV-DENIM-08-BLACK-38,"Denim cargo jeans - Washed black, 38",1,0,visible,,,taxable,1,7,3,0,0.6,0,,3990,,,RV-DENIM-08,Size,38,,1,Colour,Washed black,,1,11
+,variable,RV-PARACHUTE-09,Parachute cargo pants,1,1,visible,"Light, swishy and very baggy.","Light, swishy and very baggy. An elastic waist makes them the easiest pants you own.
+
+Fabric: Light nylon-cotton blend.
+Fit: Baggy wide leg, elastic waist with drawcord.",taxable,,,3,0,0.6,1,,,Cargo pants,new,,Size,"28, 30, 32, 34, 36, 38",1,1,Colour,"Stone, Charcoal, Olive",1,1,8
+,variation,RV-PARACHUTE-09-STONE-28,"Parachute cargo pants - Stone, 28",1,0,visible,,,taxable,1,4,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,28,,1,Colour,Stone,,1,0
+,variation,RV-PARACHUTE-09-STONE-30,"Parachute cargo pants - Stone, 30",1,0,visible,,,taxable,1,5,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,30,,1,Colour,Stone,,1,1
+,variation,RV-PARACHUTE-09-STONE-32,"Parachute cargo pants - Stone, 32",1,0,visible,,,taxable,1,5,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,32,,1,Colour,Stone,,1,2
+,variation,RV-PARACHUTE-09-STONE-34,"Parachute cargo pants - Stone, 34",1,0,visible,,,taxable,1,5,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,34,,1,Colour,Stone,,1,3
+,variation,RV-PARACHUTE-09-STONE-36,"Parachute cargo pants - Stone, 36",1,0,visible,,,taxable,1,5,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,36,,1,Colour,Stone,,1,4
+,variation,RV-PARACHUTE-09-STONE-38,"Parachute cargo pants - Stone, 38",1,0,visible,,,taxable,1,5,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,38,,1,Colour,Stone,,1,5
+,variation,RV-PARACHUTE-09-CHARCOAL-28,"Parachute cargo pants - Charcoal, 28",1,0,visible,,,taxable,1,7,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,28,,1,Colour,Charcoal,,1,6
+,variation,RV-PARACHUTE-09-CHARCOAL-30,"Parachute cargo pants - Charcoal, 30",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,30,,1,Colour,Charcoal,,1,7
+,variation,RV-PARACHUTE-09-CHARCOAL-32,"Parachute cargo pants - Charcoal, 32",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,32,,1,Colour,Charcoal,,1,8
+,variation,RV-PARACHUTE-09-CHARCOAL-34,"Parachute cargo pants - Charcoal, 34",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,34,,1,Colour,Charcoal,,1,9
+,variation,RV-PARACHUTE-09-CHARCOAL-36,"Parachute cargo pants - Charcoal, 36",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,36,,1,Colour,Charcoal,,1,10
+,variation,RV-PARACHUTE-09-CHARCOAL-38,"Parachute cargo pants - Charcoal, 38",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,38,,1,Colour,Charcoal,,1,11
+,variation,RV-PARACHUTE-09-OLIVE-28,"Parachute cargo pants - Olive, 28",1,0,visible,,,taxable,1,4,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,28,,1,Colour,Olive,,1,12
+,variation,RV-PARACHUTE-09-OLIVE-30,"Parachute cargo pants - Olive, 30",1,0,visible,,,taxable,1,5,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,30,,1,Colour,Olive,,1,13
+,variation,RV-PARACHUTE-09-OLIVE-32,"Parachute cargo pants - Olive, 32",1,0,visible,,,taxable,1,5,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,32,,1,Colour,Olive,,1,14
+,variation,RV-PARACHUTE-09-OLIVE-34,"Parachute cargo pants - Olive, 34",1,0,visible,,,taxable,1,5,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,34,,1,Colour,Olive,,1,15
+,variation,RV-PARACHUTE-09-OLIVE-36,"Parachute cargo pants - Olive, 36",1,0,visible,,,taxable,1,5,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,36,,1,Colour,Olive,,1,16
+,variation,RV-PARACHUTE-09-OLIVE-38,"Parachute cargo pants - Olive, 38",1,0,visible,,,taxable,1,5,3,0,0.6,0,,2990,,,RV-PARACHUTE-09,Size,38,,1,Colour,Olive,,1,17
+,variable,RV-EVERYDAY-10,Everyday slim chinos,1,0,visible,"Smart enough for the office, soft enough for the weekend.","Smart enough for the office, soft enough for the weekend. A clean slim chino that goes with any shirt or kurta.
+
+Fabric: Cotton twill with 2% stretch.
+Fit: Slim leg, mid rise, 32 in inseam.",taxable,,,3,0,0.6,1,,,Chinos & trousers,best-seller,,Size,"28, 30, 32, 34, 36, 38",1,1,Colour,"Khaki, Charcoal, Olive",1,1,9
+,variation,RV-EVERYDAY-10-KHAKI-28,"Everyday slim chinos - Khaki, 28",1,0,visible,,,taxable,1,11,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,28,,1,Colour,Khaki,,1,0
+,variation,RV-EVERYDAY-10-KHAKI-30,"Everyday slim chinos - Khaki, 30",1,0,visible,,,taxable,1,3,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,30,,1,Colour,Khaki,,1,1
+,variation,RV-EVERYDAY-10-KHAKI-32,"Everyday slim chinos - Khaki, 32",1,0,visible,,,taxable,1,3,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,32,,1,Colour,Khaki,,1,2
+,variation,RV-EVERYDAY-10-KHAKI-34,"Everyday slim chinos - Khaki, 34",1,0,visible,,,taxable,1,3,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,34,,1,Colour,Khaki,,1,3
+,variation,RV-EVERYDAY-10-KHAKI-36,"Everyday slim chinos - Khaki, 36",1,0,visible,,,taxable,1,3,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,36,,1,Colour,Khaki,,1,4
+,variation,RV-EVERYDAY-10-KHAKI-38,"Everyday slim chinos - Khaki, 38",1,0,visible,,,taxable,1,3,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,38,,1,Colour,Khaki,,1,5
+,variation,RV-EVERYDAY-10-CHARCOAL-28,"Everyday slim chinos - Charcoal, 28",1,0,visible,,,taxable,1,5,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,28,,1,Colour,Charcoal,,1,6
+,variation,RV-EVERYDAY-10-CHARCOAL-30,"Everyday slim chinos - Charcoal, 30",1,0,visible,,,taxable,1,6,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,30,,1,Colour,Charcoal,,1,7
+,variation,RV-EVERYDAY-10-CHARCOAL-32,"Everyday slim chinos - Charcoal, 32",1,0,visible,,,taxable,1,6,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,32,,1,Colour,Charcoal,,1,8
+,variation,RV-EVERYDAY-10-CHARCOAL-34,"Everyday slim chinos - Charcoal, 34",1,0,visible,,,taxable,1,6,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,34,,1,Colour,Charcoal,,1,9
+,variation,RV-EVERYDAY-10-CHARCOAL-36,"Everyday slim chinos - Charcoal, 36",1,0,visible,,,taxable,1,6,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,36,,1,Colour,Charcoal,,1,10
+,variation,RV-EVERYDAY-10-CHARCOAL-38,"Everyday slim chinos - Charcoal, 38",1,0,visible,,,taxable,1,6,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,38,,1,Colour,Charcoal,,1,11
+,variation,RV-EVERYDAY-10-OLIVE-28,"Everyday slim chinos - Olive, 28",1,0,visible,,,taxable,1,11,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,28,,1,Colour,Olive,,1,12
+,variation,RV-EVERYDAY-10-OLIVE-30,"Everyday slim chinos - Olive, 30",1,0,visible,,,taxable,1,3,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,30,,1,Colour,Olive,,1,13
+,variation,RV-EVERYDAY-10-OLIVE-32,"Everyday slim chinos - Olive, 32",1,0,visible,,,taxable,1,3,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,32,,1,Colour,Olive,,1,14
+,variation,RV-EVERYDAY-10-OLIVE-34,"Everyday slim chinos - Olive, 34",1,0,visible,,,taxable,1,3,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,34,,1,Colour,Olive,,1,15
+,variation,RV-EVERYDAY-10-OLIVE-36,"Everyday slim chinos - Olive, 36",1,0,visible,,,taxable,1,3,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,36,,1,Colour,Olive,,1,16
+,variation,RV-EVERYDAY-10-OLIVE-38,"Everyday slim chinos - Olive, 38",1,0,visible,,,taxable,1,3,3,0,0.6,0,,2790,,,RV-EVERYDAY-10,Size,38,,1,Colour,Olive,,1,17
+,variable,RV-RELAXED-11,Relaxed pleated trousers,1,1,visible,A relaxed trouser with a front pleat and a sharp crease.,"A relaxed trouser with a front pleat and a sharp crease. Breathable for summer and neat enough for dinners.
+
+Fabric: Cotton-linen blend.
+Fit: Single pleat, relaxed wide leg.",taxable,,,3,0,0.6,1,,,Chinos & trousers,new,,Size,"28, 30, 32, 34, 36, 38",1,1,Colour,"Stone, Charcoal",1,1,10
+,variation,RV-RELAXED-11-STONE-28,"Relaxed pleated trousers - Stone, 28",1,0,visible,,,taxable,1,9,3,0,0.6,0,,3190,,,RV-RELAXED-11,Size,28,,1,Colour,Stone,,1,0
+,variation,RV-RELAXED-11-STONE-30,"Relaxed pleated trousers - Stone, 30",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3190,,,RV-RELAXED-11,Size,30,,1,Colour,Stone,,1,1
+,variation,RV-RELAXED-11-STONE-32,"Relaxed pleated trousers - Stone, 32",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3190,,,RV-RELAXED-11,Size,32,,1,Colour,Stone,,1,2
+,variation,RV-RELAXED-11-STONE-34,"Relaxed pleated trousers - Stone, 34",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3190,,,RV-RELAXED-11,Size,34,,1,Colour,Stone,,1,3
+,variation,RV-RELAXED-11-STONE-36,"Relaxed pleated trousers - Stone, 36",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3190,,,RV-RELAXED-11,Size,36,,1,Colour,Stone,,1,4
+,variation,RV-RELAXED-11-STONE-38,"Relaxed pleated trousers - Stone, 38",1,0,visible,,,taxable,1,10,3,0,0.6,0,,3190,,,RV-RELAXED-11,Size,38,,1,Colour,Stone,,1,5
+,variation,RV-RELAXED-11-CHARCOAL-28,"Relaxed pleated trousers - Charcoal, 28",1,0,visible,,,taxable,1,3,3,0,0.6,0,,3190,,,RV-RELAXED-11,Size,28,,1,Colour,Charcoal,,1,6
+,variation,RV-RELAXED-11-CHARCOAL-30,"Relaxed pleated trousers - Charcoal, 30",1,0,visible,,,taxable,1,4,3,0,0.6,0,,3190,,,RV-RELAXED-11,Size,30,,1,Colour,Charcoal,,1,7
+,variation,RV-RELAXED-11-CHARCOAL-32,"Relaxed pleated trousers - Charcoal, 32",1,0,visible,,,taxable,1,4,3,0,0.6,0,,3190,,,RV-RELAXED-11,Size,32,,1,Colour,Charcoal,,1,8
+,variation,RV-RELAXED-11-CHARCOAL-34,"Relaxed pleated trousers - Charcoal, 34",1,0,visible,,,taxable,1,4,3,0,0.6,0,,3190,,,RV-RELAXED-11,Size,34,,1,Colour,Charcoal,,1,9
+,variation,RV-RELAXED-11-CHARCOAL-36,"Relaxed pleated trousers - Charcoal, 36",1,0,visible,,,taxable,1,4,3,0,0.6,0,,3190,,,RV-RELAXED-11,Size,36,,1,Colour,Charcoal,,1,10
+,variation,RV-RELAXED-11-CHARCOAL-38,"Relaxed pleated trousers - Charcoal, 38",1,0,visible,,,taxable,1,4,3,0,0.6,0,,3190,,,RV-RELAXED-11,Size,38,,1,Colour,Charcoal,,1,11
+,variable,RV-OFFICE-12,Office straight chinos,1,0,visible,A classic straight chino with a clean front and a wrinkle-resistant finish.,"A classic straight chino with a clean front and a wrinkle-resistant finish. Iron once, wear all week.
+
+Fabric: Cotton twill.
+Fit: Straight leg, regular rise, 32 in inseam.",taxable,,,3,0,0.6,1,,,Chinos & trousers,,,Size,"28, 30, 32, 34, 36, 38",1,1,Colour,"Khaki, Washed black, Stone",1,1,11
+,variation,RV-OFFICE-12-KHAKI-28,"Office straight chinos - Khaki, 28",1,0,visible,,,taxable,1,7,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,28,,1,Colour,Khaki,,1,0
+,variation,RV-OFFICE-12-KHAKI-30,"Office straight chinos - Khaki, 30",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,30,,1,Colour,Khaki,,1,1
+,variation,RV-OFFICE-12-KHAKI-32,"Office straight chinos - Khaki, 32",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,32,,1,Colour,Khaki,,1,2
+,variation,RV-OFFICE-12-KHAKI-34,"Office straight chinos - Khaki, 34",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,34,,1,Colour,Khaki,,1,3
+,variation,RV-OFFICE-12-KHAKI-36,"Office straight chinos - Khaki, 36",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,36,,1,Colour,Khaki,,1,4
+,variation,RV-OFFICE-12-KHAKI-38,"Office straight chinos - Khaki, 38",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,38,,1,Colour,Khaki,,1,5
+,variation,RV-OFFICE-12-BLACK-28,"Office straight chinos - Washed black, 28",1,0,visible,,,taxable,1,7,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,28,,1,Colour,Washed black,,1,6
+,variation,RV-OFFICE-12-BLACK-30,"Office straight chinos - Washed black, 30",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,30,,1,Colour,Washed black,,1,7
+,variation,RV-OFFICE-12-BLACK-32,"Office straight chinos - Washed black, 32",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,32,,1,Colour,Washed black,,1,8
+,variation,RV-OFFICE-12-BLACK-34,"Office straight chinos - Washed black, 34",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,34,,1,Colour,Washed black,,1,9
+,variation,RV-OFFICE-12-BLACK-36,"Office straight chinos - Washed black, 36",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,36,,1,Colour,Washed black,,1,10
+,variation,RV-OFFICE-12-BLACK-38,"Office straight chinos - Washed black, 38",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,38,,1,Colour,Washed black,,1,11
+,variation,RV-OFFICE-12-STONE-28,"Office straight chinos - Stone, 28",1,0,visible,,,taxable,1,7,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,28,,1,Colour,Stone,,1,12
+,variation,RV-OFFICE-12-STONE-30,"Office straight chinos - Stone, 30",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,30,,1,Colour,Stone,,1,13
+,variation,RV-OFFICE-12-STONE-32,"Office straight chinos - Stone, 32",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,32,,1,Colour,Stone,,1,14
+,variation,RV-OFFICE-12-STONE-34,"Office straight chinos - Stone, 34",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,34,,1,Colour,Stone,,1,15
+,variation,RV-OFFICE-12-STONE-36,"Office straight chinos - Stone, 36",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,36,,1,Colour,Stone,,1,16
+,variation,RV-OFFICE-12-STONE-38,"Office straight chinos - Stone, 38",1,0,visible,,,taxable,1,8,3,0,0.6,0,,2990,,,RV-OFFICE-12,Size,38,,1,Colour,Stone,,1,17

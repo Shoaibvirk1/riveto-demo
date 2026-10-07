@@ -1,0 +1,61 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "meta": {
+    "title": "Riveto store demo",
+    "description": "Riveto theme + Store Kit + WooCommerce with 12 sample products",
+    "author": "Riveto"
+  },
+  "landingPage": "/",
+  "preferredVersions": {
+    "php": "8.3",
+    "wp": "latest"
+  },
+  "features": {
+    "networking": true
+  },
+  "login": true,
+  "steps": [
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "wordpress.org/plugins",
+        "slug": "woocommerce"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/Shoaibvirk1/riveto-demo/main/riveto.zip"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "installPlugin",
+      "pluginData": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/Shoaibvirk1/riveto-demo/main/store-kit.zip"
+      },
+      "options": {
+        "activate": true
+      }
+    },
+    {
+      "step": "writeFile",
+      "path": "/tmp/riveto-products.csv",
+      "data": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/Shoaibvirk1/riveto-demo/main/riveto-sample-products.csv"
+      }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php\nrequire '/wordpress/wp-load.php';\n\n// ---- Edit this: your WhatsApp number (e.g. 03001234567). Leave empty to hide WhatsApp buttons.\n$whatsapp = '';\n\nwp_set_current_user( 1 );\n\n// Store basics: Pakistan, PKR, no decimals, Karachi time, pretty links, skip the setup wizard.\nforeach ( array(\n\t'woocommerce_default_country'           => 'PK',\n\t'woocommerce_currency'                  => 'PKR',\n\t'woocommerce_price_num_decimals'        => 0,\n\t'woocommerce_allowed_countries'         => 'specific',\n\t'woocommerce_specific_allowed_countries'=> array( 'PK' ),\n\t'woocommerce_ship_to_countries'         => '',\n\t'woocommerce_coming_soon'               => 'no',\n\t'woocommerce_onboarding_profile'        => array( 'skipped' => true ),\n\t'woocommerce_task_list_hidden'          => 'yes',\n\t'woocommerce_enable_guest_checkout'     => 'yes',\n\t'woocommerce_manage_stock'              => 'yes',\n\t'timezone_string'                       => 'Asia/Karachi',\n\t'blogname'                              => 'Riveto',\n\t'blogdescription'                       => '',\n) as $k => $v ) {\n\tupdate_option( $k, $v );\n}\nupdate_option( 'permalink_structure', '/%postname%/' );\n\n// Shop, cart, checkout and account pages, with the classic cart and checkout Store Kit needs.\nWC_Install::create_pages();\nforeach ( array( 'cart' => '[woocommerce_cart]', 'checkout' => '[woocommerce_checkout]' ) as $page => $code ) {\n\t$id = wc_get_page_id( $page );\n\tif ( $id > 0 ) {\n\t\twp_update_post( array( 'ID' => $id, 'post_content' => '<!-- wp:shortcode -->' . $code . '<!-- /wp:shortcode -->' ) );\n\t}\n}\n\n// Cash on delivery on.\nupdate_option( 'woocommerce_cod_settings', array( 'enabled' => 'yes', 'title' => 'Cash on delivery', 'description' => 'Pay with cash when your parcel arrives.', 'instructions' => '', 'enable_for_methods' => array(), 'enable_for_virtual' => 'yes' ) );\n\n// Store Kit settings.\nupdate_option( 'store_kit_options', Store_Kit::sanitize( array_merge( Store_Kit::defaults(), array( 'whatsapp' => $whatsapp ) ) ) );\n\n// Delivery: Rs 250 flat, free over Rs 5,000.\nif ( ! WC_Shipping_Zones::get_zones() ) {\n\t$zone = new WC_Shipping_Zone();\n\t$zone->set_zone_name( 'Pakistan' );\n\t$zone->add_location( 'PK', 'country' );\n\t$zone->save();\n\t$i = $zone->add_shipping_method( 'flat_rate' );\n\tupdate_option( \"woocommerce_flat_rate_{$i}_settings\", array( 'title' => 'Delivery', 'cost' => '250', 'tax_status' => 'none' ) );\n\t$j = $zone->add_shipping_method( 'free_shipping' );\n\tupdate_option( \"woocommerce_free_shipping_{$j}_settings\", array( 'title' => 'Free delivery', 'requires' => 'min_amount', 'min_amount' => '5000' ) );\n}\n\n// 12 sample products from the CSV.\nif ( file_exists( '/tmp/riveto-products.csv' ) && ! wc_get_products( array( 'limit' => 1, 'return' => 'ids' ) ) ) {\n\tinclude_once WC_ABSPATH . 'includes/import/class-wc-product-csv-importer.php';\n\tinclude_once WC_ABSPATH . 'includes/admin/importers/class-wc-product-csv-importer-controller.php';\n\t$file     = '/tmp/riveto-products.csv';\n\t$raw      = new WC_Product_CSV_Importer( $file, array( 'parse' => false, 'lines' => -1 ) );\n\t$headers  = $raw->get_raw_keys();\n\t$ctrl     = new WC_Product_CSV_Importer_Controller();\n\t$auto     = new ReflectionMethod( $ctrl, 'auto_map_columns' );\n\t$auto->setAccessible( true );\n\t$importer = new WC_Product_CSV_Importer( $file, array( 'parse' => true, 'lines' => -1, 'mapping' => array( 'from' => $headers, 'to' => $auto->invoke( $ctrl, $headers ) ) ) );\n\t$importer->import();\n}\n\ndelete_option( 'rewrite_rules' );\nflush_rewrite_rules( false );\nwc_delete_product_transients();\n"
+    }
+  ]
+}
